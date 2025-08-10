@@ -66,7 +66,6 @@ The main dependencies include:
 ### Data
 
 The dataset is available via Google Drive: [Singapore Shophouse Analysis Dataset]
-(https://drive.google.com/drive/folders/1Kz10rJhwFtXx0J0y_RaH_PWIZJha2WfF?usp=drive_link)
 
 You can download it manually and place it in the appropriate directories.
 
