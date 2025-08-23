@@ -197,39 +197,7 @@ The YOLOv5 component includes a confusion matrix visualization for evaluation of
 
 ## Quick Demo
 
-### Demo Files
-We provide sample shophouse façades and their corresponding analysis results for quick testing and verification:
-
-**Input Images** (3 representative façades):
-- `data/demo/input_images/sample_001.jpg` 
-- `data/demo/input_images/sample_002.jpg` 
-- `data/demo/input_images/sample_003.jpg` 
-
-**Reference Outputs** (for result verification):
-- Cultural classification predictions with confidence scores
-- Architectural element detection results with bounding boxes and binary vectors
-- Grad-CAM visualizations highlighting important façade regions
-- Complete results stored in `data/demo/expected_outputs/`
-
-### Expected Demo Output
-
-**Grad-CAM Visualizations:**
-- Heatmap overlays showing façade regions contributing most to cultural classification
-- Focus on elements above ground floor level (following methodology)
-  
-**Architectural Element Detection:**
-- Detected elements from 16 categories
-- Annotated images with bounding boxes around detected elements
-- Binary character vectors (0=absence, 1=presence) for phylogenetic analysis
-
-**Verification:** Compare your outputs with reference results in `data/demo/expected_outputs/` to ensure correct installation and execution.
-
-### Demo Runtime
-- **Processing time**: 1-2 minutes total (3 images, RTX 3080)
-- **Individual steps**: ~20 seconds classification, ~30 seconds detection, ~15 seconds Grad-CAM
-- **Output size**: ~5-10MB total (annotated images, text files, visualizations)
-
-**Note:** Use the commands from the "Usage Instructions" section above to process the demo images.
+Users can test the framework using the complete dataset following the Usage Instructions above. The expected outputs and runtime are detailed in the Results section.
 
 ## License
 
