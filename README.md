@@ -85,7 +85,8 @@ The main dependencies include:
 
 For detailed dataset information, please refer to Readme(Dataset)md by google link.
 
-The dataset is available via Google Drive: [Singapore Shophouse Analysis Dataset](https://drive.google.com/drive/folders/1Kz10rJhwFtXx0J0y_RaH_PWIZJha2WfF?usp=drive_link)
+The dataset is available via Google Drive: [Singapore Shophouse Analysis Dataset]
+The data supporting the findings of this study are currently embargoed during the peer review process.The confidential access link to the data has been shared with you separately via the editorial office. Upon formal acceptance of the manuscript, the data will be made publicly available on Zenodo.
 
 You can download it manually and place it in the appropriate directories.
 
