@@ -83,9 +83,8 @@ The main dependencies include:
 - **Annotations**: 708 annotated photographs with 17 label classes (16 architectural elements + building class)
 - **Elements**: Main pilaster, fanlight, secondary pilaster, festoon, modillion, Chinese plaque, Chinese decorative panel, Green glazed canopy, Malay transom, fretwork fascia, majolica tiles, long window, modern window, tripart casement window, shades, and stepping parapet.
 
-For detailed dataset information, please refer to Readme(Dataset)md by google link.
+For detailed dataset information, please refer to Readme(Dataset)md
 
-The dataset is available via Google Drive: [Singapore Shophouse Analysis Dataset]
 The data supporting the findings of this study are currently embargoed during the peer review process.The confidential access link to the data has been shared with you separately via the editorial office. Upon formal acceptance of the manuscript, the data will be made publicly available on Zenodo.
 
 You can download it manually and place it in the appropriate directories.
