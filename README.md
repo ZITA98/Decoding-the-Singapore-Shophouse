@@ -79,9 +79,13 @@ The main dependencies include:
 
 ## Data
 ### Singapore Shophouse Dataset
-- **Size**: shophouse images from Singapore four conservation district （640×640 pixels GSV /3024×4032 on-site image）
+- **Size**: Shophouse images from Singapore's four conservation districts (640×640 pixels GSV / 3024×4032 on-site image)
 - **Annotations**: 708 annotated photographs with 17 label classes (16 architectural elements + building class)
-- **Elements**: Main pilaster, fanlight, secondary pilaster, festoon, modillion, Chinese plaque, Chinese decorative panel, Green glazed canopy, Malay transom, fretwork fascia, majolica tiles, long window, modern window, tripart casement window, shades, and stepping parapet.
+- **Elements**: Main pilaster, fanlight, secondary pilaster, festoon, modillion, Chinese plaque, Chinese decorative panel, green glazed canopy, Malay transom, fretwork fascia, majolica tiles, long window, modern window, tripart casement window, shades, and stepping parapet.
+
+On-site facade photographs are separately deposited in Zenodo due to privacy considerations: Xue, X., TIAN, Z. & YANG, Y. *Singapore Shophouse Facade Analysis Dataset*. Zenodo, https://doi.org/10.5281/zenodo.17009527 (2025). 
+
+Google Street View images cannot be redistributed due to Google's Terms of Service. Sampling points and coordinates used to retrieve the imagery are provided in Supplementary Data 3 of the associated publication, enabling retrieval via the Google Street View Static API (https://developers.google.com/maps/documentation/streetview).
 
 For detailed dataset information, please refer to Readme(Dataset)md
 
